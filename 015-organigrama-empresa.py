@@ -26,3 +26,4 @@ for departamento in empresa:
     for empleado in departamento[1]:
         print("--Empleado:",empleado[0])
         print("--categoria:",empleado[1])
+print(empresa)
